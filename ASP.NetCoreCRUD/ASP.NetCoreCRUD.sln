@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NetCoreCRUD", "ASP.NetCoreCRUD\ASP.NetCoreCRUD.csproj", "{C932EAFD-9D8D-4FDE-880A-D95C8D3450A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C932EAFD-9D8D-4FDE-880A-D95C8D3450A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C932EAFD-9D8D-4FDE-880A-D95C8D3450A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C932EAFD-9D8D-4FDE-880A-D95C8D3450A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C932EAFD-9D8D-4FDE-880A-D95C8D3450A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {722C15AB-1028-49BF-8456-7B5D9632F81E}
+	EndGlobalSection
+EndGlobal
